@@ -1,0 +1,19 @@
+.parent-div{
+    /* text-align: center; */
+    /* display: inline; */
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.expense-date{
+    text-align: left;
+}
+
+.expense-name{
+    text-align: center;
+}
+
+.expense-amount{
+    text-align: right;
+}
